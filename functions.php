@@ -1,4 +1,6 @@
 <?php
+add_theme_support('post-thumbnails', array('post'));
+
 function nav_breadcrumb() {
   
   $delimiter = '&raquo;';
