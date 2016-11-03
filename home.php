@@ -20,7 +20,7 @@ get_header(); ?>
 
 <p>Soziale Medien eröffnen mir die Möglichkeit ein breiteres Publikum anzusprechen, doch ist mir die Kontrolle über die Inhalte die ich in das Internet Stelle ein wichtigeres Anliegen.</p>
 
-<p>Jeder der diese Seite besucht ist eingeladen Anregungen oder Kritik zu Projekten vorzubringen und die Liste von Interesannten Links zu erweitern!</p>
+<p>Jeder der diese Seite besucht ist gerne dazu eingeladen Anregungen oder Kritik zu Projekten vorzubringen und die Liste von Interesannten Links zu erweitern!</p>
 
 <p><a href="http://www.komoot.de/user/104852488244" target="_blank">Mein Radfahr Tagebuch auf Komoot</a></p>
 
